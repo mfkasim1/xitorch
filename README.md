@@ -1,5 +1,7 @@
 # `xitorch`: differentiable scientific computing library
 
+NOTE: the development is moved to https://github.com/xitorch/xitorch/
+
 ![Build](https://img.shields.io/github/workflow/status/mfkasim1/xitorch/Python%20package)
 [![Docs](https://img.shields.io/readthedocs/xitorch)](https://xitorch.readthedocs.io/)
 [![Code coverage](https://img.shields.io/codecov/c/github/mfkasim1/xitorch)](https://codecov.io/gh/mfkasim1/xitorch)
